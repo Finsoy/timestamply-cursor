@@ -1,0 +1,10 @@
+{
+  "name": "timestamply",
+  "displayName": "Timestamply",
+  "version": "1.0.1",
+  "description": "Generate timestamped chapters for YouTube videos and check your Timestamply video allowance in Cursor.",
+  "author": { "name": "Timestamply" },
+  "homepage": "https://timestamply.io/docs/mcp",
+  "logo": "assets/icon.png",
+  "keywords": ["youtube", "chapters", "timestamps"]
+}

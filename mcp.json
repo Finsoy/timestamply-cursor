@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "timestamply": {
+      "url": "https://api.timestamply.io/api/mcp"
+    }
+  }
+}
