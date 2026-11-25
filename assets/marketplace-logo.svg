@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>Timestamply</title>
+  <defs>
+    <linearGradient id="brand" x1="-4.621" y1="4.3023" x2="4.33476" y2="17.8577" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B78FC"/>
+      <stop offset="0.351585" stop-color="#AA74EE"/>
+      <stop offset="0.700765" stop-color="#EB5CC1"/>
+      <stop offset="1" stop-color="#F94672"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#17151F"/>
+  <path transform="translate(40 34) scale(11.5)" d="M13.863 10.0513C15.3567 9.20545 15.3567 7.09085 13.863 6.24501L3.36073 0.297695C1.86707 -0.548145 0 0.509156 0 2.20084V14.0955C0 15.7871 1.86707 16.8444 3.36073 15.9986L13.863 10.0513Z" fill="url(#brand)"/>
+</svg>
